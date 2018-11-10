@@ -1,4 +1,5 @@
 .ipynb_checkpoints
+**/__MACOSX
 **/data
 **/__pycache__
 **/*.zip
@@ -6,3 +7,4 @@
 **/*.tgz
 **/dogImages
 **/lfw
+*.pt
